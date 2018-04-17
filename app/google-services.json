@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "184337309509",
+    "firebase_url": "https://mensaje-da4de.firebaseio.com",
+    "project_id": "mensaje-da4de",
+    "storage_bucket": "mensaje-da4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184337309509:android:c01d3fd3564c2770",
+        "android_client_info": {
+          "package_name": "mateo.mensaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184337309509-smjv6itk49kbe1a9obphcnbh1ugd32m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH4HonBIrSngfH8eMw5NWYXxs_aj-XEs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
